@@ -1502,6 +1502,8 @@ img {
 }
 .single-team-member-area .team-thumb img {
     border-radius: 50%;
+    height: 180px;
+    object-fit: cover;
 }
 .single-team-member-area .team-thumb .view-more a {
     position: absolute;
