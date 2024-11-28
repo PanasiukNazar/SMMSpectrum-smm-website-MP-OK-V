@@ -2512,3 +2512,10 @@ header h2 {
     color: #f2aa4cff;
     font-size: 14px;
 }
+
+@media (max-width: 772px) {
+    .page__content h1,
+    h2 {
+        font-size: 25px !important;
+    }
+}
